@@ -1,0 +1,35 @@
+1. 工具: Markdown(写博客用), git github(blog架设跟代码托管用.) vim(neovim高效代码读写工具) 其他终端
+
+重要基础:
+2. 
+C/C++ 
+计组原理  
+数据结构&算法 
+编译原理 
+汇编语言
+操作系统  
+计算机网络
+设计模式 
+ 
+硬件基础(数字模拟电路等)
+
+3. Linux系统学习, 
+Linux/Unix环境编程  posix   , 
+Shell脚本语言, 
+网络编程, 
+正则式 
+
+RTOS
+
+4. Linux内核, 驱动开发 系统移植 bootloader
+ARM体系结构编程 
+51单片机
+STM32
+
+5. 编译makefile , 调试 debug (address santitils)  
+
+6. 硬件知识datasheet
+
+7. 代码设计&规范
+
+8. 项目管理类知识
